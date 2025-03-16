@@ -1,4 +1,4 @@
-# You Dirty Dog - CISC 187 Chapter 13 Programming Assignment
+# You Dirty Dog Programming Assignment
 
 ## Author:
 Zakaria  
